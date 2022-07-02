@@ -1,4 +1,4 @@
-GHOSTLAB : Jeu similaire au célèbre jeu PAC-MAN en clients/serveur : les clients étant des joueurs visant à avoir le maximum de points et le serveur gérant les parties du jeu
+GHOSTLAB : Jeu similaire au célèbre jeu PAC-MAN en clients/serveur : les clients étant des joueurs visant à avoir le maximum de points et le serveur gérant les parties du jeu réalisé en C et en JAVA (Serveur en JAVA et client en C) 
 
 # Pour Compiler le projet :
 
